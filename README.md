@@ -16,4 +16,18 @@ This project demonstrates fundamental game development concepts like input handl
 
 ---
 
-📸 Screenshot
+
+---
+
+## ⚙️ Requirements  
+- **C++ Compiler** (g++, clang, MSVC, etc.)  
+- [Raylib](https://www.raylib.com/) library installed  
+
+---
+
+## 🚀 How to Build & Run  
+
+### 1. Clone the Repository  
+```bash
+git clone https://github.com/your-username/pong-game.git
+cd pong-game
