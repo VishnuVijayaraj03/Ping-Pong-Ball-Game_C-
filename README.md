@@ -31,10 +31,10 @@ This project demonstrates fundamental game development concepts like input handl
 ```bash
 git clone https://github.com/your-username/pong-game.git
 cd pong-game
-
+```
 ---
 
-🎮 Controls
+**## Controls**
 
 Arrow Up (↑) → Move paddle up
 
